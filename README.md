@@ -1,5 +1,7 @@
 # Generate-Feature-with-Lexicon-on-Perl
 
+Disclaimer!! you must crawl web page on kompas.com with sepakbola and otomotif category. or you can modify the code as needed.
+
 Running Code : $ perl generate_feature_arff.pl feature_arff.txt 
 or           : $ perl generate_feature_svm.pl feature_svm.txt
 
